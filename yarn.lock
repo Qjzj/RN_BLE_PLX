@@ -1088,9 +1088,9 @@ acorn-walk@^6.0.1:
   integrity sha1-Ejy487hMIXHx9/slJhWxx4prGow=
 
 acorn@^5.5.3:
-  version "5.7.3"
-  resolved "https://registry.npm.taobao.org/acorn/download/acorn-5.7.3.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Facorn%2Fdownload%2Facorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
-  integrity sha1-Z6ojG/iBKXS4UjWpZ3Hra9B+onk=
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 acorn@^6.0.1, acorn@^6.0.7:
   version "6.2.1"
@@ -5172,6 +5172,18 @@ react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   version "16.9.0"
   resolved "https://registry.npm.taobao.org/react-is/download/react-is-16.9.0.tgz#21ca9561399aad0ff1a7701c01683e8ca981edcb"
   integrity sha1-IcqVYTmarQ/xp3AcAWg+jKmB7cs=
+
+react-native-ble-plx@^1.0.3:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/react-native-ble-plx/-/react-native-ble-plx-1.1.1.tgz#90b55a29e77f0a1bb270a60bd234e1d36b5c227b"
+  integrity sha512-UR1Kf3ubJbXI/F7+ApJYN0MJne7M7PapCXYhgi+MyQ7rUEYQ//3f2U5TFK2XdxMnz+Q0cuNaltg5uM42zyVsfg==
+
+react-native-camera@^3.1.1:
+  version "3.19.1"
+  resolved "https://registry.yarnpkg.com/react-native-camera/-/react-native-camera-3.19.1.tgz#6278b2de4653a670de6f70501c33fb215961bfcb"
+  integrity sha512-d6tMnIXLps322pXeH7HpQ/O10nhTclSbTd9J8WGxO71QxRpTTxq3NlMPHtwaGYOBVAEl9zho3lbe+/Zxql95jw==
+  dependencies:
+    prop-types "^15.6.2"
 
 react-native@0.60.4:
   version "0.60.4"
